@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corrine</h1>
 <h3 align="center">A software developer in training. Studying at CodeClan.</h3>
 
-- 🌱 I’m currently learning: **Python, Javascript, Java, Flask**
+- 🌱 I’m currently learning: **Python, Javascript, Java, Flask, HTML, CSS, React**
 
 - 📫 How to reach me: **corrine.sing@gmail.com**
 
