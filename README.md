@@ -1,7 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 <h1 align="center">Hi 👋, I'm Corrine</h1>
-<h3 align="center">A software developer in training. Studying at CodeClan.</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=1000&lines=A+software+developer+in+training.;Currently+studying+at+Codeclan." alt="Typing SVG" /></a>
+</p>
+
+
 
 - 🌱 I’m currently learning: **Python, Javascript, Java, Flask, HTML, CSS, React**
 
