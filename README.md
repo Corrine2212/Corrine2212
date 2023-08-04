@@ -11,6 +11,8 @@
 
 <p align="center">📫 How to reach me: <b><a href="mailto: corrine.sing@gmail.com">corrine.sing@gmail.com</b></p>
 
+<p align="center">📄 Know about my experiences: <b><a href="https://corrine2212.github.io/digital_cv/">my digital cv</b></p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/corrine2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="corrine2212" height="30" width="40" /></a>
