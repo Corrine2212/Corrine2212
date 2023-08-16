@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Corrine</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=1000&lines=A+software+developer+in+training.;Currently+studying+at+Codeclan." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&width=1000&lines=A+software+developer+in+training.;Graduated+from+Codeclan." alt="Typing SVG" /></a>
 </p>
 
 
