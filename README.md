@@ -26,8 +26,8 @@
 
 <p align="center" float="left">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corrine2212&show_icons=true&locale=en&layout=compact" alt="corrine2212" height="150"/>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64dd40d6095da82caf9ddeda?variant=light&roadmaps=typescript%2Cfrontend" alt="roadmap.sh" height="150"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=corrine2212&show_icons=true&locale=en&layout=compact" alt="corrine2212" height="170"/>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64dd40d6095da82caf9ddeda?variant=light&roadmaps=typescript%2Cfrontend" alt="roadmap.sh" height="170"/></a>
   
 </p>
 
