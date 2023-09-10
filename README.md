@@ -9,6 +9,8 @@
 
 <p align="center">🌱 I’m currently learning: <b>Javascript, HTML, CSS, React, Swift</b></p>
 
+<p align="center">👩🏻‍🏫 I want to learn <b>Typescript, C#</b></p>
+
 <p align="center">📫 How to reach me: <b><a href="mailto: corrine.sing@gmail.com">corrine.sing@gmail.com</b></p>
 
 <p align="center">📄 Know about my experiences: <b><a href="https://corrine2212.github.io/digital_cv/">my digital cv</b></p>
