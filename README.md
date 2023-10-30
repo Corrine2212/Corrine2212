@@ -7,7 +7,7 @@
 
 
 
-<p align="center">🌱 I’m currently learning: <b>Javascript, React/Next.js, CSS, Tailwind</b></p>
+<p align="center">🌱 I’m currently learning: <b>Javascript, React/Next.js, CSS/SASS, Tailwind</b></p>
 
 <p align="center">👩🏻‍🏫 I want to learn <b>Typescript, C#, PHP</b></p>
 
