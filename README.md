@@ -9,7 +9,7 @@
 
 <p align="center">🌱 I’m currently learning: <b>Javascript, React/Next.js, CSS/SASS, Tailwind</b></p>
 
-<p align="center">👩🏻‍🏫 I want to learn <b>Typescript, C#, PHP</b></p>
+<p align="center">👩🏻‍🏫 I want to learn <b>Typescript, Swift</b></p>
 
 <p align="center">📫 How to reach me: <b><a href="mailto: corrine.sing@gmail.com">corrine.sing@gmail.com</b></p>
 
